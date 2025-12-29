@@ -1,0 +1,59 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+/[Mm]emory[Cc]aptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Uncomment this line if you wish to ignore the asset cache store
+# /[Aa]sset[Cc]ache/
+
+# Uncomment this line if you wish to ignore the Play Mode test results
+# /[Tt]est[Rr]esults/
+
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+/[Pp]ackages/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Uu]ser[Ss]ettings/
+/[Ll]ogs/
+/[Rr]eports/
+/[Mm]emory[Cc]aptures/
+
+# Optional: Visual Studio related files
+/[Oo]pen[Aa]ssets/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Optional: JetBrains Rider/IntelliJ related files
+.idea/
+*.sln.iml
+*.csproj.DotSettings
+*.DotSettings
+
+# Optional: macOS specific files
+.DS_Store
